@@ -1,5 +1,5 @@
 
-const apiKey = 'f1e0ee2c4657c6094b042d3e97408968'; // Replace with your TMDb API key
+const apiKey = ''; // Replace with your TMDb API key
 const movieList = document.getElementById('movie-list');
 const movieModal = document.getElementById('movie-modal');
 const movieVideo = document.getElementById('movie-video');
@@ -65,7 +65,7 @@ function playMovie(movie) {
     movieReleaseDate.textContent = `Release Date: ${movie.release_date}`;
     movieGenres.textContent = `Genres: ${movie.genres.map(genre => genre.name).join(', ')}`;
 
-    // Replace with actual video URL from your hosted server or streaming service
+    // TODO - Replace with actual video URL from your hosted server or streaming service
     videoSource.src = 'https://example.com/videos/' + movie.id + '.mp4';
     movieVideo.load();
     movieModal.style.display = 'block';
