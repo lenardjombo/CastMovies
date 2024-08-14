@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CastMovies</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">CastMovies</div>
+        <div class="search-container">
+            <input type="text" placeholder="Search for movies..." id="search-bar">
+            <button id="search-button">Search</button>
+        </div>
+        <div class="theme-toggle">
+            <span id="theme-icon">🌙</span>
+        </div>
+    </nav>
+    
+    <header>
+        <h1>Welcome to CastMovies</h1>
+        <p>Your destination for endless movie streaming</p>
+    </header>
+
+    <section id="movie-list">
+        <!-- Movies will be populated here -->
+    </section>
+
+    <div id="movie-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="movie-title"></h2>
+            <p id="movie-release-date"></p>
+            <p id="movie-genres"></p>
+            <video id="movie-video" class="video-js vjs-default-skin" controls preload="auto" width="600" height="300">
+                <source id="video-source" src="" type="application/x-mpegURL">
+                Your browser does not support the video tag.
+            </video>
+            <p id="movie-description"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
