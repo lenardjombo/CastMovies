@@ -1,14 +1,14 @@
 # CastMovies
 CastMovies is an online movie streaming platform where users can search for movies, view their details, and watch them. This application uses the TMDb API for movie metadata and integrates with a video hosting service to stream video content.
 
-Table of Contents
-Features
-Technology Stack
-Getting Started
-Setup
-Usage
-API Keys
-Contributing
+**Table of Contents**
+[Features]
+[Technology Stack]
+[Getting Started]
+[Setup]
+[Usage]
+[API Keys]
+[Contributing]
 License
 Features
 Search movies by title using the TMDb API.
