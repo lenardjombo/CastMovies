@@ -50,6 +50,6 @@ This project is licensed under the MIT License.
 For any questions or suggestions, please contact:
 
 **Your Name**  
-Email: your.email@example.com  
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+Email: leonardjombo@gmail.com
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/leonard-jombo-7063a3254/)
 
