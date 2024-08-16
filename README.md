@@ -51,5 +51,5 @@ For any questions or suggestions, please contact:
 
 **Your Name**  
 Email: leonardjombo@gmail.com
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/leonard-jombo-7063a3254/)
+LinkedIn: [Jombo](https://www.linkedin.com/in/leonard-jombo-7063a3254/)
 
