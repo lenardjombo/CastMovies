@@ -2,7 +2,7 @@
 
 Castmovies is a web application crafted in HTML, CSS, JavaScript, and TMDB API. It allows users to search for the oldest or newest movies and retrieve comprehensive metadata about those movies. Future updates will include options to download or stream movies and the creation of user accounts.
 
--[LiveDemo](https://castmovies.netlify.app/)
+[LiveDemo](https://castmovies.netlify.app/)
 
 ![Screenshot from 2024-08-16 05-59-04](https://github.com/user-attachments/assets/7e86ba21-4f62-44fe-b7e5-a2f5f44fccca)
 ![Screenshot from 2024-08-16 05-59-11](https://github.com/user-attachments/assets/da0e2292-b72c-4db9-ad4c-9eb708befb92)
